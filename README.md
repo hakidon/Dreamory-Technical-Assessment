@@ -54,5 +54,5 @@ An event management platform (SaaS) for organisation (corporate) and public user
 
 You can view a demonstration of the project by watching the video below:
 
-[Watch the Demo Video](./DemoVideo.mp4)
+[Watch the Demo Video](https://drive.google.com/file/d/1DESjrIH9nSYF4YaRvmCDoTQ_KJwF9lNF/view?usp=sharing)
 
