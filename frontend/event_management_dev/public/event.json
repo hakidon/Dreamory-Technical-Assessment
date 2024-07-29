@@ -1,0 +1,24 @@
+[
+    {
+      "id": "1",
+      "title": "Event One",
+      "date": "2023-12-01",
+      "image": "https://via.placeholder.com/150",
+      "description": "Description for Event One."
+    },
+    {
+      "id": "2",
+      "title": "Event Two",
+      "date": "2023-12-02",
+      "image": "https://via.placeholder.com/150",
+      "description": "Description for Event Two."
+    },
+    {
+      "id": "3",
+      "title": "Event Three",
+      "date": "2023-12-03",
+      "image": "https://via.placeholder.com/150",
+      "description": "Description for Event Three."
+    }
+  ]
+  
